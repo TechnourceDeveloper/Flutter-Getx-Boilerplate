@@ -87,5 +87,6 @@
   	- 14.  url_launcher:
 
 # Preview
+https://github.com/TechnourceDeveloper/Flutter-Getx-Boilerplate/assets/70566076/36bbfcc7-cb60-4ca9-b182-3a8cd77d8ba3
 
 
