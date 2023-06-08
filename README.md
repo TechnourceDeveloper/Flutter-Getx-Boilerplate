@@ -1,4 +1,4 @@
-# Flutter Getx Boilerplate
+# Flutter GetX Boilerplate
 
 - Softwares and Version Install Flutter (3.7.3) :
     - [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
