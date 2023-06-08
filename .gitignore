@@ -1,0 +1,14 @@
+build
+.dart_tool
+.flutter-plugins-dependencies
+analysis_options.yaml
+.idea
+.flutter-plugins
+
+linux
+windows
+web
+macos
+test
+pubspec.lock
+
